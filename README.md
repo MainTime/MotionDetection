@@ -1,5 +1,5 @@
 # MotionDetection
 Inspired by cwasilei
 
-#License
+# License
 MIT
