@@ -1,5 +1,6 @@
-# MotionDetection
+## MotionDetection
 Inspired by cwasilei
 
-# License
+# !OpenCV required!
+## License
 MIT
